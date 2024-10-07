@@ -12,5 +12,5 @@ This project can be expanded with additional features like payment integration, 
 
 ### How to Run:
 1. Ensure you have Python installed.
-2. Run 'database.pyw' than `final.pyw` to launch the application interface.
+2. Run `database.pyw` than `final.pyw` to launch the application interface.
 
